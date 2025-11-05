@@ -1,7 +1,7 @@
 ---
 title: Mon premier article
 abstract: "Un premier résumé d'article qui sera plaisant"
-id: 123
+uuid: 123
 ---
 
 ## Un premier titre
