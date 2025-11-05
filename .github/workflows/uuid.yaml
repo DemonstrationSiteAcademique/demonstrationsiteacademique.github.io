@@ -5,7 +5,10 @@ on:
     branches:
       - master
       - main
-
+      
+permissions:
+  contents: write
+  
 jobs:
   add_uuid:
     runs-on: ubuntu-latest
